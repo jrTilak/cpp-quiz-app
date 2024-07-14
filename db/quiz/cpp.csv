@@ -1,0 +1,4 @@
+Question,Option1,Option2,Option3,Option4,CorrectOption
+"Which data type is used to store integers?","int","float","double","char",1
+"Which operator is used to compare two values?","=","==","!=","<>",2
+"What is the size of 'int' in C++?","2 bytes","4 bytes","8 bytes","Depends on the system",3
