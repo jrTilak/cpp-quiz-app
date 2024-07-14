@@ -1,1 +1,1 @@
-// admin panel to add, delete, quiz
+void handleAdminPanel() {};

@@ -1,1 +1,1 @@
-// play quiz here
+void handleQuizGame() {};
